@@ -13,6 +13,11 @@ We'll be using the `train.csv` and `test.csv` datasets that contain five columns
 - `text`: the text of the tweet
 - `target`: denotes whether a tweet is about a real disaster (1) or not (0). This is the target variable.
 
+## Liraries Used
+
+- TensorFlow and Keras for deep learning tools and libraries.
+- Pandas and NLTK for data manipulation and text processing.
+
 ## Project Structure
 
 1. **Data Collection:**
